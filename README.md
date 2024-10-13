@@ -1,7 +1,4 @@
 
-Sure! Here's a structured README.md file for your project based on the provided function. You can use this as a template for your GitHub repository.
-
----
 
 # Total Target Calculator
 
@@ -47,9 +44,3 @@ console.log(calculateTotalTarget('2024-01-01', '2024-03-31', 5220));
 - It only excludes Fridays from the working days calculation. Other holidays or non-working days are not considered.
 - The function evenly distributes the target across months regardless of the number of working days in each month.
 
-## License
-This project is licensed under the MIT License.
-
----
-
-Feel free to adjust any sections as needed! Once you've uploaded your project, just replace `<repository-link>` and `<project-directory>` with the actual links. If you have any questions or need further assistance, let me know!
